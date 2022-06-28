@@ -1,7 +1,7 @@
 
-Hello! I'm Luiz Henrique, current studying game design at UAM 
-##
-Familiarized with C# and Unity Engine
+# Hello! I'm Luiz Henrique, current studying game design at UAM 
+## Familiarized with C# and Unity Engine
+
 
 <div align="center">
   <a href="https://github.com/LuizH71">
