@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCA95&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Gomes+Martins;I+from+Brasil,+SP;I+study+game+design+at+UAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LuizH71&show_icons=true&count_private=true&hide_border=true&title_color=FFCA95&icon_color=FFCA95&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Henrique Gomes Martins github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizH71&layout=compact&hide_border=true&title_color=FFCA95&text_color=FFCA95&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizH71&show_icons=true&count_private=true&hide_border=true&title_color=FFCA95&icon_color=FFCA95&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Henrique Gomes Martins github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LuizH71&layout=compact&hide_border=true&title_color=FFCA95&text_color=FFCA95&bg_color=0d1117" />
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuizH71&bg_color=0d1117&color=FFCA95&line=FFCA95&point=FFCA95&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
