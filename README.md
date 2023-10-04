@@ -2,7 +2,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAB56F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCA95&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Gomes+Martins;I+from+Brasil,+SP;I+study+game+design+at+UAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCA95&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luiz+Henrique+Gomes+Martins;I'm+from+Brasil,+SP;I+study+game+design+at+UAM;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LuizH71&show_icons=true&count_private=true&hide_border=true&title_color=FFCA95&icon_color=FFCA95&text_color=c9d1d9&bg_color=0d1117" alt="Luiz Henrique Gomes Martins github stats" /> 
